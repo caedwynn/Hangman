@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hangman</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="guess">Guess a letter: </string>
+    <string name="incorrect">Sorry - incorrect guess</string>
+    <string name="correct">Great job! Good guess</string>
+    <string name="wordmask">******</string>
+    <string  name="enter_text">Enter Text</string>
+    <string name="welcome">Welcome to Hangman!!</string>
+</resources>
